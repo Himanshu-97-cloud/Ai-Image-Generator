@@ -1,4 +1,4 @@
-# 🧠 AI Image Generator 🎨
+# 🧠 Image Generator 🎨
 
 A simple and responsive web application that generates images using text-based prompts. Powered by the **Pixabay API**, this tool helps users fetch high-quality, relevant images just by typing a keyword or idea.
 
@@ -17,7 +17,7 @@ Built using **HTML**, **CSS**, and **JavaScript**, the app offers smooth user ex
 
 ## 📷 Demo
 
-> 💡 [Live Demo Link](#) — *(Replace with your deployment URL)*
+> 💡 https://himanshu-97-cloud.github.io/Ai-Image-Generator/
 
 ---
 
