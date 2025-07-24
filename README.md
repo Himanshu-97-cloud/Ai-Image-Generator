@@ -11,10 +11,7 @@ Built using **HTML**, **CSS**, and **JavaScript**, the app offers smooth user ex
 - 🔍 **Text-Based Search** — Generate images by entering any topic or idea.
 - 🎲 **Random Page Fetching** — Avoids repeated results by fetching from random pages.
 - 📷 **High-Quality Images** — Uses Pixabay’s large images for great visual quality.
-- ⏳ **Live Status Feedback** — Shows "Loading..." or error messages while fetching.
-- 📥 **Easy Downloads** — One-click download for any image.
 - 📱 **Responsive UI** — Mobile-friendly and visually appealing layout.
-- 🎨 **Styled Scrollbars** — Custom scrollbar and smooth grid layout.
 
 ---
 
@@ -31,7 +28,4 @@ Built using **HTML**, **CSS**, and **JavaScript**, the app offers smooth user ex
 - **JavaScript (Vanilla)** – Logic, API interaction, DOM handling
 - **Pixabay API** – Image data source
 
----
-
-## 📁 File Structure
 
