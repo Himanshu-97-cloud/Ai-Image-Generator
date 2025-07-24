@@ -17,7 +17,7 @@ Built using **HTML**, **CSS**, and **JavaScript**, the app offers smooth user ex
 
 ## 📷 Demo
 
-💡 ** https://himanshu-97-cloud.github.io/Image-Generator/ **
+💡 https://himanshu-97-cloud.github.io/Image-Generator/
 
 ---
 
