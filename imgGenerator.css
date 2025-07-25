@@ -83,6 +83,7 @@ form{
     }
     h1{
         font-size: 1.7rem;
+        color: white;
     }
     .form{
         flex-direction: column;
